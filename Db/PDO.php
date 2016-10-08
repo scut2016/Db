@@ -12,7 +12,7 @@ class PDO implements IDatabase
 {
     function connect()
     {
-        // TODO: Implement connect() method.
+       echo "connect";
     }
 
     function query()
