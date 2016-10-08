@@ -7,6 +7,7 @@ class Oracle implements IDatabase
     function connect()
     {
         // TODO: Implement connect() method.
+        echo "123456";
     }
 
     function query()
